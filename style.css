@@ -1,7 +1,7 @@
 * 
 {
 	margin:0;
-	padding:0;
+	padding:10px 10px 10px 10px;
 
 	box-sizing:border-box;
 }
@@ -15,4 +15,45 @@ a
 {
 	text-decoration:none;
 	color:#000000;
+}
+
+.titlebar
+{
+	font-size:20px;
+	font-weight:700;
+}
+
+.techwrap
+{
+	border:1px solid #d3d3d3;
+	width:300px;
+}
+
+.techbar
+{
+	font-size:16px;
+	font-weight:700;
+}
+
+.techbody
+{
+	font-size:15px;
+}
+
+.careerwrap
+{
+	margin-top:20px;
+	border:1px solid #d3d3d3;
+	width:300px;
+}
+
+.careerbar
+{
+	font-size:16px;
+	font-weight:700;
+}
+
+.careerbody
+{
+	font-size:15px;
 }
